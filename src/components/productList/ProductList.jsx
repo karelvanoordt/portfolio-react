@@ -18,6 +18,8 @@ export default function ProductList() {
             <Product />
             <Product />
             <Product />
+            <Product />
+            <Product />
         </div>
     </div>
   )

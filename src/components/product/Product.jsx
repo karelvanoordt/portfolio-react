@@ -1,7 +1,18 @@
-import React from 'react'
+import React from 'react';
+import './product.css'
 
 export default function Product() {
   return (
-    <div>Product</div>
+    <div className='p'>
+        <div className="p-browser">
+          <div className="p-circle"></div>
+          <div className="p-circle"></div>
+          <div className="p-circle"></div>
+        </div>
+
+        <a href="/" className="" target="_blank" rel="noreferrer">
+          <img src="" alt="" className="p-img" />
+        </a>
+    </div>
   )
 }
