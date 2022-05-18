@@ -7,7 +7,7 @@ export default function ProductList() {
   return (
     <div className='pl'>
         <div className="pl-texts">
-            <h1 className="pl-title">Create & Inspire</h1>
+            <h1 className="pl-title">Projects</h1>
             <p className="pl-desc">
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus inventore possimus suscipit, 
                 dicta aspernatur aperiam numquam porro eum doloremque quia, nisi consequuntur natus asperiores? Repellendus 
